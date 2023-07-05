@@ -118,7 +118,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Jenny Morgan
+          Zhang Andy
         </a>
         , and{' '}
         <a
